@@ -97,7 +97,7 @@ Files included in this repository:
 ---
 
 ##  Repository Contents
-
+/ (root)
 Project Repository
 │── README.md
 │── Final_Report.pdf
@@ -127,3 +127,4 @@ This project demonstrates how structured critical thinking can transform a simpl
 
 ## License
 This project is for academic use under KRMU and may not be redistributed without permission.
+
