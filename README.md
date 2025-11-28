@@ -101,17 +101,16 @@ Files included in this repository:
 This section outlines the organization of files and directories within this repository.
 - **Project Repository** (Root Directory)
     - `README.md` (This file)
-    - `Final_Report.pdf`
-    - `PPT_Presentation.pptx`
-    - **Reflections**
-        - `Sehnish.pdf`
-        - `Himanshu.pdf`
+    - `Project Report.pdf`
+    - `ppt Presentation.pdf`
+    - **Individual Reflection Summary**
+        - `Sehnish Dagar.pdf`
+        - `Himanshu Kumar.pdf`
         - `Harshita.pdf`
     - **Diagrams**
-        - `5_Whys.png`
-        - `Six_Thinking_Hats.png`
-        - `Fishbone_Diagram.png`
-        -  `SmartBin_Diagram`
+        - `5_Whys_diagram.png`
+        - `FishBone Diagram.png`
+        -  `SmartBin Diagram.png`
 
 
 
@@ -132,6 +131,7 @@ This project demonstrates how structured critical thinking can transform a simpl
 
 ## License
 This project is for academic use under KRMU and may not be redistributed without permission.
+
 
 
 
