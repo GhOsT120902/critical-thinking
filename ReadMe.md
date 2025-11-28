@@ -99,6 +99,22 @@ Files included in this repository:
 # Project Repository Structure
 
 This section outlines the organization of files and directories within this repository.
+- **Project Repository/** (Root Directory)
+    - `README.md` (This file)
+    - `Final_Report.pdf`
+    - `PPT_Presentation.pptx`
+    - `Fishbone_Diagram.png`
+    - `Fishbone_Detailed.png`
+    - `Fishbone_Template_Style.png`
+    - `SmartBin_Diagram`
+    - **Reflections/**
+        - `Sehnish.pdf`
+        - `Himanshu.pdf`
+        - `Harshita.pdf`
+    - **Diagrams/**
+        - `5_Whys.png`
+        - `Six_Thinking_Hats.png`
+
 
 
 ---
@@ -118,5 +134,6 @@ This project demonstrates how structured critical thinking can transform a simpl
 
 ## License
 This project is for academic use under KRMU and may not be redistributed without permission.
+
 
 
